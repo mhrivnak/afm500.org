@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://afm500.hrivnak.org/"
 languageCode = "en-us"
 title = "Local 500"
 theme = "mainroad"
