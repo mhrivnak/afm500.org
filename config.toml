@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Local 500"
+theme = "mainroad"
+paginate = 1000
+
+[params]
+    description = "Local 500 of the American Federation of Musicians."
+    postSections = ["posts"]
+    post_navigation = false
+
+[params.widgets]
+    search = true
+
